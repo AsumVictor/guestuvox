@@ -25,6 +25,12 @@ function HomeScreen() {
       <Hero />
       <TextHeader>About Us</TextHeader>
       <Mission />
+    <TextHeader>How It Works</TextHeader>
+      <VideoFram>
+        <VideoContainer>
+          <PlayButton />
+        </VideoContainer>
+      </VideoFram>
       <VideoFram2>
         <FuturePlan>
           <FutureHeader tw=" text-white">
@@ -41,12 +47,7 @@ function HomeScreen() {
         </FuturePlan>
         <VideoPlayer src={Future} className={"bg-red-400 px-20"} />
       </VideoFram2>
-      {/* <TextHeader>How It Works</TextHeader>
-      <VideoFram>
-        <VideoContainer>
-          <PlayButton />
-        </VideoContainer>
-      </VideoFram> */}
+     
       <TextHeader>Meet The Team</TextHeader>
       {TeamMembers.map(member=>(
 
