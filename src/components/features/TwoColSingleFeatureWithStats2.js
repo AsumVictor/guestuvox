@@ -50,13 +50,13 @@ export default ({
   subheading = "Our Mission Statement",
   heading = (
     <>
-      By <span tw="text-primary-500">2060</span>, GestuVox is forging a future
+      By <span tw="text-primary-500">2060</span>, SignIt is forging a future
       where signs unite the world.
     </>
   ),
-  description = "At GestuVox, our mission is to empower and unite the diverse worlds of the deaf and hearing communities through innovative sign language solutions. We are dedicated to breaking down the barriers of communication, ensuring that every individual, regardless of their hearing ability, can connect, understand, and be understood. Our commitment is to foster inclusivity, celebrate the richness of sign language, and create a world where the language of signs can resonate and thrive across all boundaries.",
+  description = "At SignIt, our mission is to empower and unite the diverse worlds of the deaf and hearing communities through innovative sign language solutions. We are dedicated to breaking down the barriers of communication, ensuring that every individual, regardless of their hearing ability, can connect, understand, and be understood. Our commitment is to foster inclusivity, celebrate the richness of sign language, and create a world where the language of signs can resonate and thrive across all boundaries.",
   primaryButtonText = "Sponsor Us",
-  primaryButtonUrl = "https://p.hbtl.co/RG868C",
+  primaryButtonUrl = "https://www.gofundme.com/",
   imageSrc = StatsIllustrationSrc,
   imageCss = null,
   imageContainerCss = null,
