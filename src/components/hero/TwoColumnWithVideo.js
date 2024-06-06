@@ -63,7 +63,7 @@ const LineSpan = tw.span`text-primary-600`
 
 
 export default ({
-  description = "Our project goes beyond mere words; it's about fostering connections, sharing stories, and celebrating the diversity of human expression. With GestuVox, we're breaking down the barriers of silence and sound to bridge two distinct languages: sign language and spoken language.",
+  description = "Our project goes beyond mere words; it's about fostering connections, sharing stories, and celebrating the diversity of human expression. With SignIt, we're breaking down the barriers of silence and sound to bridge two distinct languages: sign language and spoken language.",
   primaryButtonText = "Learn More",
   primaryButtonUrl = "#",
   watchVideoButtonText = "How it Started",
@@ -82,7 +82,7 @@ export default ({
       <Container>
         <TwoColumn>
           <LeftColumn>
-            <Heading><LineSpan>GestuVox: </LineSpan>Bridging Deaf and Hearing Worlds with Sign Language</Heading>
+            <Heading><LineSpan>SignIt: </LineSpan>Bridging Deaf and Hearing Worlds with Sign Language</Heading>
             <Paragraph>{description}</Paragraph>
             <Actions>
               <PrimaryButton as="a" href={primaryButtonUrl}>
