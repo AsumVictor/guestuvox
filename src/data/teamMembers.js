@@ -1,4 +1,4 @@
-import AsumVictor from "../images/Profile/105683075.jpeg";
+import AsumVictor from "../images/Profile/quality.png";
 import Prince from "../images/Profile/prince.jpg";
 // EDENIC
 import Morro from "../images/Profile/morro.jpeg";
